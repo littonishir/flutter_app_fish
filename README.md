@@ -1,5 +1,5 @@
 # flutter_app_fish
-
+> 学习记录，具体参见提交记录。
 A new Flutter application.
 
 ## Getting Started
